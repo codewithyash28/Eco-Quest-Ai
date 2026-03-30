@@ -1,0 +1,9 @@
+{
+  "name": " EcoQuest",
+  "description": "An intelligent environmental impact guide and sustainability coach that helps users track, reduce, and gamify their eco-friendly journey.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
